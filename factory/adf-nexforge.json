@@ -1,0 +1,15 @@
+{
+	"name": "adf-nexforge",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91c5c587-1f69-44e9-a1ae-6f1cfc5b87d8",
+		"tenantId": "de48956e-64bd-4be0-9195-c11bab100baf"
+	}
+}
